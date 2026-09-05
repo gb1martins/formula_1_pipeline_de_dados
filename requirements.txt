@@ -7,3 +7,4 @@ streamlit
 pandas
 numpy
 plotly
+pytest
